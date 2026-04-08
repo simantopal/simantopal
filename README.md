@@ -3,9 +3,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7,8e44ad&center=true&vCenter=true&width=700&lines=👋+Hello,+There;💜+I+am+Simanto+Pal;🌟+Nice+to+meet+you!" alt="Fancy Typing SVG" />
 </h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7&center=true&vCenter=true&width=700&lines=✨+Hello,+There;💜+I+am+Simanto+Pal;🌟+Nice+to+meet+you!" alt="Fancy Typing SVG" />
-</h1>
 
 <h3 align="center">Front-End Web Developer | Expert in JavaScript, React.js, Next.js, Node.js | Passionate About Building Modern Web Applications</h3>
 
@@ -15,25 +12,21 @@
 
 <table>
   <tr>
-    <!-- Left side: Text -->
     <td>
 
-## 👋 Talking about Personal Stuff:
+## 👋 Talking about Personal:
 
-- 💻 I'm currently working with **React, Node, javaScript, MongoDB**  
-- 🌱 I'm currently exploring **Golang, Blockchain, Rust, Solidity, Solana**  
+- 💻 I'm currently working with **React.js, Node.js, javaScript, MongoDB**  
+- 🌱 I'm currently exploring **Next.js, TypeScript**
 - 📫 Reach out to me: simantop13@gmail.com
 
 ## 🌟 My Absolute Favorites:
 
-- 🚀 I love exploring new technologies and building cool stuff  
-- 🎉 Meetups & Tech Events & Hackathons
+- 🚀 I love exploring new technologies and building cool projects  
+- 🎉 Attending Meetups & Tech Events  
+- ⚡ Open Source Contribution & Side Projects  
+- 🎮 Creative UI Experiments
 
-    </td>
-
-    <!-- Right side: Animation Image -->
-    <td>
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Project Delivery Animation" width="300"/>
     </td>
   </tr>
 </table>
