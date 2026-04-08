@@ -1,7 +1,10 @@
-<img width="1536" height="1024" alt="Simanto Pal - Frontend Developer" src="https://chatgpt.com/s/m_69d61725e9588191b2594befaed34d62" />
+<img width="1536" height="1024" alt="Simanto Pal - Frontend Developer" src="/asset/github-banner.png" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7,8e44ad&center=true&vCenter=true&width=700&lines=Hello,+There!+👋;💜+I+am+Simanto+Pal;🌟+Nice+to+meet+you!" alt="Fancy Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7,8e44ad&center=true&vCenter=true&width=700&lines=👋+Hello,+There;💜+I+am+Simanto+Pal;🌟+Nice+to+meet+you!" alt="Fancy Typing SVG" />
+</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7&center=true&vCenter=true&width=700&lines=✨+Hello,+There;💜+I+am+Simanto+Pal;🌟+Nice+to+meet+you!" alt="Fancy Typing SVG" />
 </h1>
 
 <h3 align="center">Front-End Web Developer | Expert in JavaScript, React.js, Next.js, Node.js | Passionate About Building Modern Web Applications</h3>
@@ -17,7 +20,7 @@
 
 ## 👋 Talking about Personal Stuff:
 
-- 💻 I'm currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**  
+- 💻 I'm currently working with **React, Node, javaScript, MongoDB**  
 - 🌱 I'm currently exploring **Golang, Blockchain, Rust, Solidity, Solana**  
 - 📫 Reach out to me: simantop13@gmail.com
 
