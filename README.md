@@ -36,7 +36,8 @@
 
 
 
-const simantopal {
+<p>
+  const simantopal {
   pronouns:"he/him",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
   tools: ["React","Node.js", "Styled-Components"],
@@ -48,3 +49,4 @@ const simantopal {
   },
   challenge: "I am doing the Code challenge focused on React"
 }
+</p>
