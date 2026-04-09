@@ -7,7 +7,9 @@
 <h3 align="center">Front-End Web Developer | Expert in JavaScript, React.js, Next.js, Node.js | Passionate About Building Modern Web Applications</h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/simanto-paul14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/simanto-paul14" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/simanto-paul14" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Simanto Pal LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <table>
