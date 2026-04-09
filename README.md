@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="Simanto Pal - Frontend Developer" src="/asset/github-banner.png" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7,8e44ad&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+👋+Hello,+There;%F0%9F%92%9C+I+am+Simanto+Pal;%F0%9F%8C%9F+Nice+to+meet+you!" alt="Simanto Pal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff6ec7,8e44ad&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hello,+There;%F0%9F%92%9C+I+am+Simanto+Pal;%F0%9F%8C%9F+Nice+to+meet+you!" alt="Simanto Pal Typing" />
 </h1>
 
 <h3 align="center">Front-End Web Developer | Expert in JavaScript, React.js, Next.js, Node.js | Passionate About Building Modern Web Applications</h3>
